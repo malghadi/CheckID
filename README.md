@@ -1,4 +1,4 @@
-# id-FDGP-1 (ID-Forgery Detection of Guilloche Pattern)
+# GDID (Guilloche Detection for ID authentication)
 Git repository for the identity documents authentication project, carried out by Musab Al-Ghadi.
 
 **Introduction**
