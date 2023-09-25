@@ -14,7 +14,7 @@ Identity documents (IDs) are always including more and more sophisticated securi
 ## Contents <br />
 
 1- CFD_model <br />
-This model employs an encoder-decoder-classifier sub-networks which enable the model to map the input image into a lower-dimension feature vector, and then to reconstruct the output image. The objective of classifier is to well classify the input image into a real or fake image. 
+This model employs encoder-classifier sub-networks. The role of the encoder component (i.e. Siamese neural network) is to extract the features from a pair of IDs and compressing them into a lower-dimensional representations. While, the classifier component uses the encoded data to make predictions (i.e. classify the input ID into a real or fake ID).
 <img
   src="blob/CFD.png"
   alt="Alt text"
@@ -22,7 +22,10 @@ This model employs an encoder-decoder-classifier sub-networks which enable the m
   style="display: inline-block; margin: 0 auto; max-width: 50px">
   <br />
 2- FsAFD_model. <br /> 
-This model is similar to the CFD_model, the ony difference is that the classifier network f(.) is replaced by a onstrained-adversarial model A(.).
+The second model employs encoder-(fake-sampleadversary) sub-networks that consists of two main components: an encoder E(.) and an adversary A(.).
+This model is similar to the CFD model, the ony difference is that the classifier network f(.) is replaced by a constrained-adversarial model A(.).
+the role of the encoder component E(.) (i.e. backbone neural network) is to extract features from the input pair (x, y) and compressing them into a lower-dimensional representation Ex and Ey. And the adversary component A(.), also known as the discriminator, uses the encoded data to
+determine whether the input is real or fake.
 <img
   src="blob/FsAFD.png"
   alt="Alt text"
