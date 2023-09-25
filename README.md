@@ -39,11 +39,20 @@ Has the contents of the work entitled "Identifying Fraudulent Identity Documents
 2. Authentication of Holograms with Mixed Patterns by Direct LBP Comparison. [gitHub](https://github.com/mnchapel/authentication_of_holograms_with_mixed_patterns_by_direct_lbp_comparison)
    
 ## Citation
-@inproceedings{alGhadi2023,
+# BibTeX 
+1- @inproceedings{alGhadi2023,
 title={Guilloche Detection for {ID} Authentication: A Dataset and Baselines},
 author= {Musab Al-Ghadi and Zuheng Ming and Petra Gomez-Krämer and Jean-Christophe Burie and Micka\"{e}l Coustaty and Nicolas Sidere},
 booktitle={Proceedings of the International Workshop on MultiMedia Signal Processing (MMSP)},
 pages={1--6},
 year={2023},
 organization={IEEE}
+2- @inproceedings{Chapel2023, 
+author = {Marie-Neige Chapel and Musab Al-Ghadi and Jean-Christophe Burie},
+booktitle = { Proceedings of the International Workshop on MultiMedia Signal Processing (MMSP)},
+pages = {7--12},
+title = {Authentication of Holograms with Mixed Patterns by Direct {LBP} Comparison},
+year = {2023},
+organization={IEEE}
+}
 
