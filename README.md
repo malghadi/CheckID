@@ -1,4 +1,4 @@
-# CheckID: Guilloche Detection for Identity Document authentication
+# CheckID: Check Identity Documents
 Git repository for the CheckID project, carried out by Musab Al-Ghadi.
 
 ## Introduction <br />
