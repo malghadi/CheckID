@@ -10,7 +10,7 @@ Identity documents (IDs) are always including more and more sophisticated securi
 1- CFD_model <br />
 This model employs an encoder-decoder-classifier sub-networks which enable the model to map the input image into a lower-dimension feature vector, and then to reconstruct the output image. The objective of classifier is to well classify the input image into a real or fake image. 
 <img
-  src="blob/ContFD.png"
+  src="blob/CFD.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 50px">
@@ -18,7 +18,7 @@ This model employs an encoder-decoder-classifier sub-networks which enable the m
 2- FsAFD_model. <br /> 
 This model is similar to the CFD_model, the ony difference is that the classifier network f(.) is replaced by a onstrained-adversarial model A(.).
 <img
-  src="blob/AdvFD.png"
+  src="blob/FsAFD.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 50px">
