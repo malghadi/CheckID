@@ -39,6 +39,15 @@ the role of the encoder component E(.) (i.e. backbone neural network) is to extr
 ## Models
 We release the trained models on two datasets: MIDV and FMIDV for 10 countries. The models are named following the rule of "[modelName][country].tar" and can be downloaded here.
 ## Usage
+### Installation
+pip install -r requirements.txt
+
+git clone https://github.com/malghadi/checkID.git
+
+--# install pytorch, torchvision refer to https://pytorch.org/get-started/locally/
+
+pip install torch==1.13.0+cu116 torchvision==0.14.0+cu116 -f https://download.pytorch.org/whl/torch_stable.html
+
 ### Training
 
 ### Testing
