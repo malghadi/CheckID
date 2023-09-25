@@ -35,6 +35,8 @@ Has the contents of the work entitled "Identifying Fraudulent Identity Documents
 
 #### Description of files in this repository 2 <br />
 
+## Related Projects
+
 ## Citation
 @inproceedings{alGhadi2023,
 title={Guilloche Detection for {ID} Authentication: A Dataset and Baselines},
