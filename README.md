@@ -9,6 +9,7 @@ With the explosion of the Internet and online registration services, identity do
 </p>
  <br />
  
+ 
 ### Verify customer’s identity documents remotely
 ID verification confirms the legitimacy of an ID such as a passport, identity card or driving license. The company must verify its legitimacy, this verification includes the verification of the security elements integrated into the ID.
 
