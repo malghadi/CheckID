@@ -35,3 +35,11 @@ the role of the encoder component E(.) (i.e. backbone neural network) is to extr
   style="display: inline-block; margin: 0 auto; max-width: 50px">
   <br />
 
+
+## Models
+We release the trained models on two datasets: MIDV and FMIDV for 10 countries. The models are named following the rule of "[modelName][country].tar" and can be downloaded here.
+## Usage
+### Training
+
+### Testing
+
