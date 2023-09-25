@@ -51,7 +51,7 @@ Zy: presents number of selected zones; 𝑦 = {2, 4, 6}
 
 ## Demos of the samples
 <p align="center">
-<img width="460" height="200" src="blob/ControlingID.png">
+<img width="460" height="200" src="blob/samples.jpg">
 </p>
  <br />
  
