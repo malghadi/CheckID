@@ -15,7 +15,8 @@ organization={IEEE}
 ## Contents <br />
 
 # 1- Contrastive based fraud detection (CFD) model. <br />
-This model employs encoder-classifier sub-networks. The role of the encoder component (i.e. Siamese neural network) is to extract the features from a pair of IDs and compressing them into a lower-dimensional representations. While, the classifier component uses the encoded data to make predictions (i.e. classify the input ID into a real or fake ID).__
+This model employs encoder-classifier sub-networks. The role of the encoder component (i.e. Siamese neural network) is to extract the features from a pair of IDs and compressing them into a lower-dimensional representations. While, the classifier component uses the encoded data to make predictions (i.e. classify the input ID into a real or fake ID). 
+<br />
 <img
   src="blob/CFD.png"
   alt="Alt text"
@@ -26,7 +27,8 @@ This model employs encoder-classifier sub-networks. The role of the encoder comp
 # 2- Fake-sample-adversary based fraud detection (FsAFD) model. <br /> 
 The second model employs encoder-(fake-sampleadversary) sub-networks that consists of two main components: an encoder E(.) and an adversary A(.).
 This model is similar to the CFD model, the ony difference is that the classifier network f(.) is replaced by a constrained-adversarial model A(.).
-the role of the encoder component E(.) (i.e. backbone neural network) is to extract features from the input pair (x, y) and compressing them into a lower-dimensional representation Ex and Ey. And the adversary component A(.), also known as the discriminator, uses the encoded data to determine whether the input is real or fake.__
+the role of the encoder component E(.) (i.e. backbone neural network) is to extract features from the input pair (x, y) and compressing them into a lower-dimensional representation Ex and Ey. And the adversary component A(.), also known as the discriminator, uses the encoded data to determine whether the input is real or fake.
+<br />
 <img
   src="blob/FsAFD.png"
   alt="Alt text"
