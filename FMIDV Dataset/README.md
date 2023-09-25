@@ -1,28 +1,25 @@
 # FMIDV: Forged Mobile Identity Document Video dataset
 
-This webpage presents a dataset for copy-move forgeries on the identity documents of MIDV-2020 dataset. The forged samples contain many Similar but Genuine Objects (SGO) which has been shown as a challenge for Copy-Move Forgery Detection (CMFD) algorithms and should be useful in many works in digital forensics research.
+This page presents a dataset for copy-move forgeries on the identity documents of MIDV-2020 dataset. The forged samples contain many Similar but Genuine Objects (SGO) which has been shown as a challenge for Copy-Move Forgery Detection (CMFD) algorithms and should be useful in many works in digital forensics research.
 
-Any use of this dataset is required to cite the following reference:
-M. Al-Ghadi, Z. Ming, P. Gomez-Krämer, and J.-C. Burie. Identity documents authentication based on forgery detection of guilloche pattern, arXiv, 2022.
-https://doi.org/10.48550/arxiv.2206.10989
 
 ### FMIDV size and access
-The dataset has a size of 4,7 GB and is hosted on an FTP server of the University of La Rochelle. Please fill this form for getting access to the dataset. In  case of any problem, please contact (musab.alghadi@univ-lr.fr).
+The dataset has a size of 4,7 GB and is hosted on an FTP server of the University of La Rochelle. Please fill this [form](https://forms.office.com/r/gVsSivTFYz) for getting access to the dataset. In  case of any problem, please contact (musab.alghadi@univ-lr.fr).
 
 ## Structure of genuine dataset (MIDV-2020)
 MIDV-2020 dataset collects identity documents in four categories:
-# 1-	Template category : comprises 1000 dummy identity documents
+### 1-	Template category : comprises 1000 dummy identity documents
 The original sample images obtained from Wikimedia Commons and edited to remove non-persistent data (such as signature, photo, and text field values).
 
-# 2-	Photo category : comprises 1000 photos in resolution of 2268 × 4032
+### 2-	Photo category : comprises 1000 photos in resolution of 2268 × 4032
 pixels
 A photo was taken for each physical document sample, given various conditions and using two smartphones. Half of the photos were captured using Apple iPhone XR, and the other half using Samsung S10.
-# 3-	Scan category : comprises 2000 scanned identity documents
+### 3-	Scan category : comprises 2000 scanned identity documents
 Each physical document sample was scanned using Canon LiDE 220 and Canon LiDE 300 scanners, in two different modes (1000 for each).
 Scanning modes: 
 •	upright position (scan_upright.tar)
 •	rotated to an arbitrary angle (scan_rotated.tar)
-# 4-	Video clips category : comprises 1000 video clips
+### 4-	Video clips category : comprises 1000 video clips
 For each physical document sample a video clip was captured vertically using Apple iPhone XR and Samsung S10, in a resolution of 2160 × 3840 pixels, with 60 frames per second.
 
 
