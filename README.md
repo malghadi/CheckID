@@ -35,8 +35,8 @@ Has the contents of the work entitled "Identifying Fraudulent Identity Documents
 #### Description of files in this repository 2 <br />
 
 ## Related Projects
-1. CheckScan: a reference hashing for identity document quality detection. [Paper](https://www.researchgate.net/publication/359039260_CheckScan_a_reference_hashing_for_identity_document_quality_detection#fullTextFileContent)
-2. Authentication of Holograms with Mixed Patterns by Direct LBP Comparison. [gitHub](https://github.com/mnchapel/authentication_of_holograms_with_mixed_patterns_by_direct_lbp_comparison)
+1. CheckScan: a reference hashing for identity document quality detection. [gitHub] [Paper](https://www.researchgate.net/publication/359039260_CheckScan_a_reference_hashing_for_identity_document_quality_detection#fullTextFileContent)
+2. Authentication of Holograms with Mixed Patterns by Direct LBP Comparison. [gitHub] (https://github.com/mnchapel/authentication_of_holograms_with_mixed_patterns_by_direct_lbp_comparison) [Paper]
    
 ## Citation
 # BibTeX 
