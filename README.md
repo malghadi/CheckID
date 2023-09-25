@@ -47,6 +47,7 @@ booktitle={Proceedings of the International Workshop on MultiMedia Signal Proces
 pages={1--6},
 year={2023},
 organization={IEEE}
+ <br />
 2- @inproceedings{Chapel2023, 
 author = {Marie-Neige Chapel and Musab Al-Ghadi and Jean-Christophe Burie},
 booktitle = { Proceedings of the International Workshop on MultiMedia Signal Processing (MMSP)},
