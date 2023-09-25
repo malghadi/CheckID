@@ -58,7 +58,7 @@ Zy: presents number of selected zones; 𝑦 = {2, 4, 6}
 Dr. Musab Al-Ghadi musab.alghadi@univ-lr.fr
 
 ## Citation
-@inproceedings{alGhadi2023,
+@inproceedings{alGhadi2023, 
 title={Guilloche Detection for {ID} Authentication: A Dataset and Baselines},
 author= {Musab Al-Ghadi and Zuheng Ming and Petra Gomez-Krämer and Jean-Christophe Burie and Micka\"{e}l Coustaty and Nicolas Sidere},
 booktitle={Proceedings of the International Workshop on MultiMedia Signal Processing (MMSP)},
