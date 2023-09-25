@@ -39,7 +39,7 @@ Has the contents of the work entitled "Identifying Fraudulent Identity Documents
 2. Authentication of Holograms with Mixed Patterns by Direct LBP Comparison. [gitHub](https://github.com/mnchapel/authentication_of_holograms_with_mixed_patterns_by_direct_lbp_comparison) [Paper]
    
 ## Citation
-# BibTeX 
+### BibTeX 
 1- @inproceedings{alGhadi2023,
 title={Guilloche Detection for {ID} Authentication: A Dataset and Baselines},
 author= {Musab Al-Ghadi and Zuheng Ming and Petra Gomez-Krämer and Jean-Christophe Burie and Micka\"{e}l Coustaty and Nicolas Sidere},
