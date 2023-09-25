@@ -5,7 +5,7 @@ Git repository for the CheckID project, carried out by Musab Al-Ghadi.
 With the explosion of the Internet and online registration services, identity document (ID) fraud and identity theft are on the rise. Therefore, companies need to be increasingly vigilant in their customer on-boarding processes. Fraud represents different risks for businesses: non-payment, money laundering, identity theft, etc. It therefore becomes necessary to verify customer identity documents.
 
   <p align="center">
-  <img width="460" height="200" src="blob/ControlingID.png">
+  <img width="500" height="220" src="blob/ControlingID.png">
 </p>
  <br />
  
